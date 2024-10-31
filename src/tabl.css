@@ -1,0 +1,9 @@
+table,tr,td{
+    background-color: black;
+    border: 2px solid white;
+    width: 40%;
+    height: 40%;
+    text-align: center;
+    color: white;
+
+}
